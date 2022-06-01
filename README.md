@@ -31,7 +31,8 @@ Um pouco sobre mim
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   # Sources
-  <ul>
-    <il>Icons:<br><a href="https://devicon.dev"<target="_blank"></a></il><br>
-    <il>SocialMedias:<br><a href="https://shields.io"<target="_blank"></a></il>
+  <div>
+    ICONS: <br> <a href="https://devicon.dev" <target="_blank"></a>
+    SOCIALMEDIAS: <br> <a href="https://shields.io" <target="_blank">
+  </div>
   </ul>
