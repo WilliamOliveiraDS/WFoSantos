@@ -33,7 +33,6 @@ Um pouco sobre mim
   # Sources
   <div>
     <ul>
-      <il>ICONS:<br><a href="https://devicon.dev" target="_blank"></a><src="ICONS"></il>
-      <il>SOCIALMEDIAS: <br> <a href="https://shields.io" target="_blank"></il>
-    </ul>
+      <il> ICONS: https://devicon.dev/</il>
+      <il> SOCIALMEDIAS: https://shields.io</il>
   </div>
