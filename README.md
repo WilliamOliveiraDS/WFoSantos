@@ -32,7 +32,6 @@ Um pouco sobre mim
   
   # Sources
   <ul>
-    
     <il>Icons:<br> https://devicon.dev/</il>
-    <il>SocialMedias: <br> shields.io </il>
+    <il>SocialMedias:<br> shields.io</il>
   </ul>
