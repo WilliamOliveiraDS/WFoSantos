@@ -15,10 +15,10 @@ Um pouco sobre mim
 </div>
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="William-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="William-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="William-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="William-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="William-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt"William-Py" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="center" alt"William-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
 ##
