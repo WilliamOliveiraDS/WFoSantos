@@ -37,4 +37,3 @@ Um pouco sobre mim
       <il>SOCIALMEDIAS: <br> <a href="https://shields.io" target="_blank"></il>
     </ul>
   </div>
-  </ul>
