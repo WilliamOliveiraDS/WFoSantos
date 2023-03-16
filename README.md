@@ -1,7 +1,7 @@
 # APRESENTAÇÃO
 Um pouco sobre mim
 
-📚 Atualmente Cursando Análise e Desenvolvimento de Sistemas (ADS), HTML Web Developer Básico (DIO) e Java Developer (DIO);
+📚 Atualmente Cursando Análise e Desenvolvimento de Sistemas (ADS), SQL e NOSQL DEVELOPER e Java Developer (DIO);
 
 🖥 Técnico em Manutenção e Suporte em Informática;
 
